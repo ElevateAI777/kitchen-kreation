@@ -1,5 +1,3 @@
-import html2canvas from "html2canvas";
-
 var aGlobal = null;
 var anItem = null;
 var aWall = null;
